@@ -13,3 +13,8 @@ Prinsip utamanya adalah mencari **garis atau bidang pemisah terbaik (hyperplane)
 ⚠️ **Kekurangan:** Kurang efisien untuk dataset besar dan sensitif terhadap pemilihan kernel.
 
 https://drive.google.com/drive/folders/12flrt2aI_HoH4pRJbtkWAGvATXlWVvRc?usp=drive_link
+
+| No | Keterangan | Gambar |
+|----|-------------|--------|
+| 1  | Grafik Akurasi | ![Akurasi](https://drive.google.com/uc?export=view&id=1AbCdEfGhIjKlMnO) |
+| 2  | Contoh Daun | ![Daun](images/daun_herbal.jpg) |
