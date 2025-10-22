@@ -16,5 +16,5 @@ https://drive.google.com/drive/folders/12flrt2aI_HoH4pRJbtkWAGvATXlWVvRc?usp=dri
 
 | No | Keterangan | Gambar |
 |----|-------------|--------|
-| 1  | Grafik Akurasi | ![Akurasi](https://drive.google.com/uc?export=view&id=1AbCdEfGhIjKlMnO) |
-| 2  | Contoh Daun | ![Daun](images/daun_herbal.jpg) |
+| 1  | Grafik Akurasi | ![Akurasi](result/download%20(1).png) |
+| 2  | Contoh Daun | ![Daun](result/download.png) |
